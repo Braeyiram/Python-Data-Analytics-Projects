@@ -15,9 +15,3 @@ Welcome to my repository of Python projects! These projects cover various progra
 
 ### 4. **Blossom Bank App**
 - A complete banking application with **authentication, deposits, withdrawals, and transfers**.
-
-## How to Use
-Clone the repository and run individual projects using:
-```bash
-git clone https://github.com/your-username/python-projects.git
-python script_name.py
